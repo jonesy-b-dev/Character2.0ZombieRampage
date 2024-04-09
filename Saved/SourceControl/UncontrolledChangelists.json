@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/NorthSimon/Documents/Projets Unreal Engine/TestCharacter/Content/ThirdPerson/Blueprints/BP_SwatBP.uasset",
+				"C:/Users/NorthSimon/Documents/Projets Unreal Engine/TestCharacter/Content/ThirdPerson/Maps/NewMap.umap",
+				"C:/Users/NorthSimon/Documents/Projets Unreal Engine/TestCharacter/Content/ThirdPerson/Blueprints/Weapon_Data.uasset"
+			]
+		}
+	]
+}
